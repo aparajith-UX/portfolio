@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://aparajith-ux.github.io/portfolio/sitemap.xml

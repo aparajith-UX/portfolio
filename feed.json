@@ -1,0 +1,136 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Aparajith Aradhya",
+    "description": "",
+    "home_page_url": "https://aparajith-ux.github.io/portfolio",
+    "feed_url": "https://aparajith-ux.github.io/portfolio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Aparajith Aradhya"
+    },
+    "items": [
+        {
+            "id": "https://aparajith-ux.github.io/portfolio/simplify-corporate-travel-2/",
+            "url": "https://aparajith-ux.github.io/portfolio/simplify-corporate-travel-2/",
+            "title": "Web app for a photography website",
+            "summary": "Content brewing ☕",
+            "content_html": "<p>Content brewing ☕</p>",
+            "image": "https://aparajith-ux.github.io/portfolio/media/posts/8/KitKarma-Thumbnail-2.png",
+            "author": {
+                "name": "Aparajith Aradhya"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-28T20:18:38+05:30",
+            "date_modified": "2021-07-01T11:03:52+05:30"
+        },
+        {
+            "id": "https://aparajith-ux.github.io/portfolio/simplify-corporate-travel/",
+            "url": "https://aparajith-ux.github.io/portfolio/simplify-corporate-travel/",
+            "title": "Simplify corporate travel",
+            "summary": "Insteract simplifies travel management by blending traveller needs and company policies. It&hellip;",
+            "content_html": "<h1>Insteract simplifies travel management by blending traveller needs and company policies. It offers a complete travel management platform for business and travellers.</h1>\n<p>Role: UX/UI design, Prototyping</p>\n<h2>Problem</h2>\n<p>Business travel is essential for geographically distributed teams, but managing it was hard work.</p>\n<h2>Travellers were unhappy with the bookings made by agents.</h2>\n<p>Travellers spent a lot of time coordinating with the travel team to get the flights they wanted. In most cases, the team was not aware of their personal preferences and could not book flights that they liked.</p>\n<h3>Travel managers struggled to define the best travel policy.</h3>\n<p>Travel managers spent a lot of time getting the best flights and rates from agents. They struggled to define the best travel policy that worked well for both the company and the employees.</p>\n<h3>Solution</h3>\n<h2>We built a complete travel platform to simplify travel management.</h2>\n<p><strong>1) Travellers got a dependable, personalised travel assistant.</strong></p>\n<p>The mobile app understood the traveller's personal preferences and blended them with the travel policy to always show relevant results. They could book flights that they liked while staying within the budget.</p>\n<p><strong>2) Travel managers got control over the workflow</strong></p>\n<p>The mobile and the web app allowed them to get control over the workflow from anywhere.</p>",
+            "image": "https://aparajith-ux.github.io/portfolio/media/posts/7/Insteract-Cover.png",
+            "author": {
+                "name": "Aparajith Aradhya"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-28T20:13:21+05:30",
+            "date_modified": "2021-06-28T20:13:21+05:30"
+        },
+        {
+            "id": "https://aparajith-ux.github.io/portfolio/doodles/",
+            "url": "https://aparajith-ux.github.io/portfolio/doodles/",
+            "title": "Doodles",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://aparajith-ux.github.io/portfolio/media/posts/6/Daily-doodles.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://aparajith-ux.github.io/portfolio/media/posts/6/responsive/Daily-doodles-xs.png 300w ,https://aparajith-ux.github.io/portfolio/media/posts/6/responsive/Daily-doodles-sm.png 480w ,https://aparajith-ux.github.io/portfolio/media/posts/6/responsive/Daily-doodles-md.png 768w ,https://aparajith-ux.github.io/portfolio/media/posts/6/responsive/Daily-doodles-lg.png 1024w\"  alt=\"\" width=\"1024\" height=\"1024\"></figure>",
+            "image": "https://aparajith-ux.github.io/portfolio/media/posts/6/Daily-doodles-2.png",
+            "author": {
+                "name": "Aparajith Aradhya"
+            },
+            "tags": [
+                   "Illustration"
+            ],
+            "date_published": "2021-06-28T13:59:43+05:30",
+            "date_modified": "2021-06-28T14:01:01+05:30"
+        },
+        {
+            "id": "https://aparajith-ux.github.io/portfolio/bangalore-blooms/",
+            "url": "https://aparajith-ux.github.io/portfolio/bangalore-blooms/",
+            "title": "Bangalore Blooms",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://aparajith-ux.github.io/portfolio/media/posts/5/gulmohar-Artwork.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://aparajith-ux.github.io/portfolio/media/posts/5/responsive/gulmohar-Artwork-xs.png 300w ,https://aparajith-ux.github.io/portfolio/media/posts/5/responsive/gulmohar-Artwork-sm.png 480w ,https://aparajith-ux.github.io/portfolio/media/posts/5/responsive/gulmohar-Artwork-md.png 768w ,https://aparajith-ux.github.io/portfolio/media/posts/5/responsive/gulmohar-Artwork-lg.png 1024w\"  alt=\"\" width=\"1200\" height=\"1200\"></figure>",
+            "image": "https://aparajith-ux.github.io/portfolio/media/posts/5/gulmohar-Artwork-2.png",
+            "author": {
+                "name": "Aparajith Aradhya"
+            },
+            "tags": [
+                   "Illustration"
+            ],
+            "date_published": "2021-06-28T13:58:57+05:30",
+            "date_modified": "2021-06-28T14:01:30+05:30"
+        },
+        {
+            "id": "https://aparajith-ux.github.io/portfolio/illustration/",
+            "url": "https://aparajith-ux.github.io/portfolio/illustration/",
+            "title": "Illustration",
+            "summary": " Faith Gulmohar Hope Love ",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://aparajith-ux.github.io/portfolio/media/posts/4/gallery/Faith-thumbnail-framed-artwork.png\" data-size=\"1200x1200\"><img loading=\"lazy\" src=\"https://aparajith-ux.github.io/portfolio/media/posts/4/gallery/Faith-thumbnail-framed-artwork-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a>\n<figcaption>Faith</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://aparajith-ux.github.io/portfolio/media/posts/4/gallery/gulmohar-Framed-Artwork.png\" data-size=\"1200x1200\"><img loading=\"lazy\" src=\"https://aparajith-ux.github.io/portfolio/media/posts/4/gallery/gulmohar-Framed-Artwork-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a>\n<figcaption>Gulmohar</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://aparajith-ux.github.io/portfolio/media/posts/4/gallery/Hope-thumbnail-framed-artwork.png\" data-size=\"1200x1200\"><img loading=\"lazy\" src=\"https://aparajith-ux.github.io/portfolio/media/posts/4/gallery/Hope-thumbnail-framed-artwork-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a>\n<figcaption>Hope</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://aparajith-ux.github.io/portfolio/media/posts/4/gallery/Love-thumbnail-framed-artwork.png\" data-size=\"1200x1200\"><img loading=\"lazy\" src=\"https://aparajith-ux.github.io/portfolio/media/posts/4/gallery/Love-thumbnail-framed-artwork-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a>\n<figcaption>Love</figcaption>\n</figure>\n</div></div>",
+            "author": {
+                "name": "Aparajith Aradhya"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-28T13:51:57+05:30",
+            "date_modified": "2021-06-28T13:51:57+05:30"
+        },
+        {
+            "id": "https://aparajith-ux.github.io/portfolio/about/",
+            "url": "https://aparajith-ux.github.io/portfolio/about/",
+            "title": "About",
+            "summary": "Am a UX/UI designer passionately building digital products",
+            "content_html": "<h2>Am a UX/UI designer passionately building digital products</h2>",
+            "author": {
+                "name": "Aparajith Aradhya"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-26T00:05:07+05:30",
+            "date_modified": "2021-06-26T00:07:03+05:30"
+        },
+        {
+            "id": "https://aparajith-ux.github.io/portfolio/a-robotic-cook-that-makes-amazing-meals-while-you-chill/",
+            "url": "https://aparajith-ux.github.io/portfolio/a-robotic-cook-that-makes-amazing-meals-while-you-chill/",
+            "title": "Cook delicious meals at home",
+            "summary": " Nymble had a unique idea to automate boring parts of cooking&hellip;",
+            "content_html": "\n    <h2 id=\"nymble-had-a-unique-idea-to-automate-boring-parts-of-cooking-so-people-could-enjoy-what-they-really-loved-eating\">\n      Nymble had a unique idea to automate boring parts of cooking so people could enjoy what they really loved- Eating!\n    </h2>\n\n  <p>\n    Role: UX/UI design, Prototyping\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://aparajith-ux.github.io/portfolio/media/posts/2/Nymble-Cover.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://aparajith-ux.github.io/portfolio/media/posts/2/responsive/Nymble-Cover-xs.png 300w ,https://aparajith-ux.github.io/portfolio/media/posts/2/responsive/Nymble-Cover-sm.png 480w ,https://aparajith-ux.github.io/portfolio/media/posts/2/responsive/Nymble-Cover-md.png 768w ,https://aparajith-ux.github.io/portfolio/media/posts/2/responsive/Nymble-Cover-lg.png 1024w\"  height=\"1200\" width=\"1600\" alt=\"\" />\n      \n    </figure>\n\n    <h2 id=\"problem\">\n      Problem\n    </h2>\n\n  <p>\n    We were just a few months away from CES, the most influential tech event in the world. Nymble wanted to show their product fondly called \"Julia\" to potential customers, investors and tech enthusiasts. Julia could cook a variety of meals, but had difficulty communicating with humans.\n  </p>\n\n    <h2 id=\"approach\">\n      Approach\n    </h2>\n\n  <p>\n    I started out by understanding the current \"smart cooker\" space. I found that there were 2 types of interfaces – 1) A small digital screen with buttons to interact with the appliance and 2) A full-screen display with one or no buttons.<br><br>Next, I understood the design of the appliance itself – It would be a modern, minimalistic appliance with very few buttons. It would have smooth contours and no hard edges.<br><br>Finally, I understood how the device would be used  – It would be used mostly in the kitchen under different lighting conditions. People would use it standing about 1 foot away from it.<br><br><b>Insights</b><br><br>1) The interface had to be dark to emit very less light from the screen. It would be used both in the night and day. <br><br>2) The interface had to be fully screen-based to match the aesthetics of the appliance.<br><br>3) The text and images had to be legible from a distance.<br><br><b>Inspiration</b><br><br>I drew inspiration from other smart devices that had a full digital display and controls.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://aparajith-ux.github.io/portfolio/media/posts/2/Nymble-Mood-Board.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://aparajith-ux.github.io/portfolio/media/posts/2/responsive/Nymble-Mood-Board-xs.png 300w ,https://aparajith-ux.github.io/portfolio/media/posts/2/responsive/Nymble-Mood-Board-sm.png 480w ,https://aparajith-ux.github.io/portfolio/media/posts/2/responsive/Nymble-Mood-Board-md.png 768w ,https://aparajith-ux.github.io/portfolio/media/posts/2/responsive/Nymble-Mood-Board-lg.png 1024w\"  height=\"1200\" width=\"1600\" alt=\"\" />\n      \n    </figure>",
+            "image": "https://aparajith-ux.github.io/portfolio/media/posts/2/Nymble-Thumbnail.png",
+            "author": {
+                "name": "Aparajith Aradhya"
+            },
+            "tags": [
+                   "Web App",
+                   "Mobile App"
+            ],
+            "date_published": "2021-06-25T11:33:23+05:30",
+            "date_modified": "2021-06-28T18:47:34+05:30"
+        },
+        {
+            "id": "https://aparajith-ux.github.io/portfolio/employee-performance-through-continious-feedback/",
+            "url": "https://aparajith-ux.github.io/portfolio/employee-performance-through-continious-feedback/",
+            "title": "Improve employee performance through open feedback, appreciation and continuous learning",
+            "summary": "People spend the majority of their day at work. It's important to&hellip;",
+            "content_html": "<h2>People spend the majority of their day at work. It's important to build a culture of open feedback, appreciation and continuous learning for everybody to thrive!</h2>\n<p>Role: User Research, UX/UI design, Prototyping</p>\n<h2>Problem</h2>\n<p>Employee performance systems are broken. Appraisals alone can't help individuals become better. These are good for evaluation but fail to improve performance. Both appraisers and appraisers dislike the long, laborious process. We set out to change this system by designing a performance-focused solution.</p>\n<h2>Research</h2>\n<p>We spoke to 15 people across different roles and company sizes. Small startups to large corporations. Individual contributors to Directors. It was clear, everybody felt that regular feedback was essential for progress.</p>\n<p>Our research showed that employees needed a transparent feedback system that was less formal and more frequent. They needed feedback in context to what they were doing, not after it was done.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://aparajith-ux.github.io/portfolio/media/posts/1/User-Interview.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/User-Interview-xs.png 300w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/User-Interview-sm.png 480w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/User-Interview-md.png 768w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/User-Interview-lg.png 1024w\"  alt=\"\" width=\"547\" height=\"196\"></figure>\n<h2><strong>Key insights:</strong></h2>\n<p><strong>Frequent, context based 2-way feedback</strong></p>\n<p>The usual appraisal feedback is one way and does not help in identifying areas for improvement. The appraisal process is long and tedious and assesses work done in the past.</p>\n<p>Employees found that getting feedback in context to their current work helped them do better. Any contextual feedback was offline and was not recorded. So, it was forgotten during the appraisal interviews.</p>\n<p><strong>Appreciating small wins in public built reciprocity</strong></p>\n<p>Everybody feels good when they are appreciated for their efforts. We assumed that appreciation had to be private and personal.</p>\n<p>We learnt that in addition to this, most people liked it when they are appreciating it in public. We also found that It is easier to reciprocate and show appreciation in return.</p>\n<p><strong>Self paced and hands-on learning</strong></p>\n<p>Traditional learning programs are designed to align employees with the company needs. Employees completed these programs but it did not contribute to their progress.</p>\n<p>We found that employees have to be continuously coached on new things. Learning depended on applying their knowledge in everyday work for a considerable amount of time.</p>\n<h2>Solution</h2>\n<h2>Armed with these insights, we set out to design a solution that integrated Feedback, Appreciation and Learning into one cohesive solution.</h2>\n<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://aparajith-ux.github.io/portfolio/media/posts/1/UI-Wall.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/UI-Wall-xs.png 300w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/UI-Wall-sm.png 480w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/UI-Wall-md.png 768w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/UI-Wall-lg.png 1024w\"  alt=\"\"></figure>\n<p> </p>\n<h2>Feedback</h2>\n<h2>We found 2 things that were causing problems exchanging feedback freely.</h2>\n<p><strong>1) There was initial hesitation to give and receive feedback.</strong></p>\n<p>We found that Managers were comfortable giving feedback to their team. But, the team members were wary of requesting feedback even though they knew it was important.</p>\n<p>We helped start the habit by nudging them to take action.</p>\n<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://aparajith-ux.github.io/portfolio/media/posts/1/Onboarding-2.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Onboarding-2-xs.png 300w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Onboarding-2-sm.png 480w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Onboarding-2-md.png 768w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Onboarding-2-lg.png 1024w\"  alt=\"\" width=\"1600\" height=\"1200\"></figure>\n<p><strong>2) Feedback was perceived as harsh or negative</strong></p>\n<p>Giving and receiving feedback was tough. Well-intended feedback could sound rude and demotivate the receiver if not given the right way.</p>\n<p>We designed the process of giving feedback into 2 sections - Positive feedback first, followed by ways to improve. This made sure that the feedback was well rounded and motivating.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://aparajith-ux.github.io/portfolio/media/posts/1/Feedback-steps.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Feedback-steps-xs.png 300w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Feedback-steps-sm.png 480w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Feedback-steps-md.png 768w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Feedback-steps-lg.png 1024w\"  alt=\"\" width=\"1600\" height=\"1200\"></figure>\n<h2>Kudos</h2>\n<h2>We found that appreciating each other was contagious. The more employees liked each other, the better they felt.</h2>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://aparajith-ux.github.io/portfolio/media/posts/1/User-Interview1.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/User-Interview1-xs.png 300w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/User-Interview1-sm.png 480w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/User-Interview1-md.png 768w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/User-Interview1-lg.png 1024w\"  alt=\"\" width=\"547\" height=\"196\"></figure>\n<p><strong>1) Share wins with the world</strong></p>\n<p>Earlier wins were celebrated, but offline. The value of the appreciation multiplied when everybody could participate in the celebration.</p>\n<p>We made sharing wins easy. Just one tap to share appreciation on social media.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://aparajith-ux.github.io/portfolio/media/posts/1/Kudos-Share-Kudos.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Kudos-Share-Kudos-xs.png 300w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Kudos-Share-Kudos-sm.png 480w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Kudos-Share-Kudos-md.png 768w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Kudos-Share-Kudos-lg.png 1024w\"  alt=\"\" width=\"1600\" height=\"1200\"></figure>\n<p><strong>2) Reciprocate appreciation</strong></p>\n<p>We found that appreciation created natural reciprocation. People who appreciate their teammates and managers got appreciated in return. As a result, teams bonded well and indirectly helped their productivity and performance.</p>\n<p>It was easy to like, share and respond to appreciation messages when they were shown in a public feed.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://aparajith-ux.github.io/portfolio/media/posts/1/Kudos-Public-Feed.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Kudos-Public-Feed-xs.png 300w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Kudos-Public-Feed-sm.png 480w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Kudos-Public-Feed-md.png 768w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Kudos-Public-Feed-lg.png 1024w\"  alt=\"\" width=\"1600\" height=\"1295\"></figure>\n<p><strong>3) Strengthen company culture</strong></p>\n<p>Most companies struggle to build a culture. Culture is built on shared company values. Even with the most amount of efforts from HR teams, not everybody really knows and behaves in accordance with the company culture.</p>\n<p>We helped people remember the values and act accordingly by the act of repetition. Every appreciation was linked to company values.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://aparajith-ux.github.io/portfolio/media/posts/1/Kudos-Reply.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Kudos-Reply-xs.png 300w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Kudos-Reply-sm.png 480w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Kudos-Reply-md.png 768w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Kudos-Reply-lg.png 1024w\"  alt=\"\" width=\"1600\" height=\"1200\"></figure>\n<h2>Learning</h2>\n<h2>We discovered that for learning to be effective, it had to be self-paced and hands on.</h2>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://aparajith-ux.github.io/portfolio/media/posts/1/User-Interview2.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/User-Interview2-xs.png 300w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/User-Interview2-sm.png 480w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/User-Interview2-md.png 768w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/User-Interview2-lg.png 1024w\"  alt=\"\" width=\"547\" height=\"218\"></figure>\n<p><strong>1) Self Paced learning</strong></p>\n<p>Employees learn better when they learn what they wanted at their own pace. But, it's difficult for them to complete the program if they are left to learn on there own.</p>\n<p>To solve this problem, we nudged employees to complete the programs by showing their progress in the dashboard.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://aparajith-ux.github.io/portfolio/media/posts/1/Learning-Public-Feed-4.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Learning-Public-Feed-4-xs.png 300w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Learning-Public-Feed-4-sm.png 480w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Learning-Public-Feed-4-md.png 768w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Learning-Public-Feed-4-lg.png 1024w\"  alt=\"\" width=\"1600\" height=\"1294\"></figure>\n<p><strong>2) Hands on learning</strong></p>\n<p>Employees had to apply learning in everyday work to make real progress. There was no way to see if there was progress even if they got to apply their learning.</p>\n<p>We analysed the skills for each feedback message. This helped us show progress over time.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://aparajith-ux.github.io/portfolio/media/posts/1/Learning-Skill-Analysis-2.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Learning-Skill-Analysis-2-xs.png 300w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Learning-Skill-Analysis-2-sm.png 480w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Learning-Skill-Analysis-2-md.png 768w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Learning-Skill-Analysis-2-lg.png 1024w\"  alt=\"\" width=\"1600\" height=\"1207\"></figure>\n<h2>Outcome</h2>\n<h2>Users loved the way we integrated feedback, appreciation and learning.</h2>\n<p>We solved a gap in the current HR systems by creating a platform for employees to exchange feedback openly, appreciate teammates and be appreciated in return. They learnt skills that they needed the most at their own pace and applied it in their everyday work.</p>\n<h2>My Learning</h2>\n<h2>I learnt many important lessons during the course of the design.</h2>\n<p><strong>Get as much real data as possible</strong></p>\n<p>Most times decisions based on what we feel. To make objective decisions it is important to get real data.</p>\n<p><strong>Learn from cross-functional teams</strong></p>\n<p>Product Managers and Developers have the same goal as designers but, a completely different way of thinking. Getting reviews from a cross-functional team opens up new doors.</p>",
+            "image": "https://aparajith-ux.github.io/portfolio/media/posts/1/Emtropy-Thumbnail-2.png",
+            "author": {
+                "name": "Aparajith Aradhya"
+            },
+            "tags": [
+                   "Web App",
+                   "Mobile App",
+                   "Case Study"
+            ],
+            "date_published": "2021-06-25T11:11:06+05:30",
+            "date_modified": "2021-07-06T23:27:59+05:30"
+        }
+    ]
+}
