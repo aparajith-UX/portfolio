@@ -3,25 +3,33 @@
     <title>Aparajith Aradhya</title>
     <link href="https://aparajith-ux.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://aparajith-ux.github.io/portfolio" />
-    <updated>2025-08-05T14:50:41+05:30</updated>
+    <updated>2025-08-05T17:21:58+05:30</updated>
     <author>
         <name>Aparajith</name>
     </author>
     <id>https://aparajith-ux.github.io/portfolio</id>
 
     <entry>
-        <title>Ai music creator for everybody</title>
+        <title>Ai for sentiment analysis</title>
         <author>
             <name>Aparajith</name>
         </author>
-        <link href="https://aparajith-ux.github.io/portfolio/ai-music-creator-for-everybody.html"/>
-        <id>https://aparajith-ux.github.io/portfolio/ai-music-creator-for-everybody.html</id>
+        <link href="https://aparajith-ux.github.io/portfolio/ai-music-creator-for-everybody/"/>
+        <id>https://aparajith-ux.github.io/portfolio/ai-music-creator-for-everybody/</id>
 
-        <updated>2025-08-05T14:50:41+05:30</updated>
-            <summary></summary>
+        <updated>2025-08-05T17:21:58+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aparajith-ux.github.io/portfolio/media/posts/1/Emtropy-Thumbnail.png" alt="" />
+                     
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://aparajith-ux.github.io/portfolio/media/posts/1/Dashboard-with-themes.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Dashboard-with-themes-xs.png 300w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Dashboard-with-themes-sm.png 480w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Dashboard-with-themes-md.png 768w ,https://aparajith-ux.github.io/portfolio/media/posts/1/responsive/Dashboard-with-themes-lg.png 1024w"  alt="" width="1600" height="1200"></figure>
+                    <img src="https://aparajith-ux.github.io/portfolio/media/posts/1/Emtropy-Thumbnail.png" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
+<figure class="gallery__item"><a href="https://aparajith-ux.github.io/portfolio/media/posts/1/gallery/Emtropy-Thumbnail.png" data-size="1440x1530"><img loading="lazy" src="https://aparajith-ux.github.io/portfolio/media/posts/1/gallery/Emtropy-Thumbnail-thumbnail.png" alt="" width="768" height="816"></a></figure>
+</div></div>
             ]]>
         </content>
     </entry>
