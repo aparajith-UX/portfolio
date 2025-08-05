@@ -7,7 +7,7 @@
     "user_comment": "",
     "icon": "https://aparajith-ux.github.io/portfolio/media/website/AparajithAradhya-logo-2.png",
     "author": {
-        "name": "Aparajith"
+        "name": "Aparajith Aradhya"
     },
     "items": [
         {
@@ -18,7 +18,7 @@
             "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://aparajith-ux.github.io/portfolio/media/posts/1/gallery/Emtropy-Thumbnail.png\" data-size=\"1440x1530\"><img loading=\"lazy\" src=\"https://aparajith-ux.github.io/portfolio/media/posts/1/gallery/Emtropy-Thumbnail-thumbnail.png\" alt=\"\" width=\"768\" height=\"816\"></a></figure>\n</div></div>",
             "image": "https://aparajith-ux.github.io/portfolio/media/posts/1/Emtropy-Thumbnail-2.png",
             "author": {
-                "name": "Aparajith"
+                "name": "Aparajith Aradhya"
             },
             "tags": [
             ],
