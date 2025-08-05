@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "https://aparajith-UX.github.io/portfolio/a-cooking-robot/",
+            "url": "https://aparajith-UX.github.io/portfolio/a-cooking-robot/",
+            "title": "A cooking robot",
+            "image": "https://aparajith-UX.github.io/portfolio/media/posts/3/Nymble-Thumbnail.png",
+            "author": {
+                "name": "Aparajith Aradhya"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-05T19:48:39+05:30",
+            "date_modified": "2025-08-05T19:48:39+05:30"
+        },
+        {
             "id": "https://aparajith-UX.github.io/portfolio/ai-music-creator-for-everybody/",
             "url": "https://aparajith-UX.github.io/portfolio/ai-music-creator-for-everybody/",
             "title": "Ai for sentiment analysis",

@@ -3,12 +3,24 @@
     <title>Aparajith Aradhya</title>
     <link href="https://aparajith-UX.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://aparajith-UX.github.io/portfolio" />
-    <updated>2025-08-05T18:10:12+05:30</updated>
+    <updated>2025-08-05T19:48:39+05:30</updated>
     <author>
         <name>Aparajith Aradhya</name>
     </author>
     <id>https://aparajith-UX.github.io/portfolio</id>
 
+    <entry>
+        <title>A cooking robot</title>
+        <author>
+            <name>Aparajith Aradhya</name>
+        </author>
+        <link href="https://aparajith-UX.github.io/portfolio/a-cooking-robot/"/>
+        <id>https://aparajith-UX.github.io/portfolio/a-cooking-robot/</id>
+
+        <updated>2025-08-05T19:48:39+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Ai for sentiment analysis</title>
         <author>
