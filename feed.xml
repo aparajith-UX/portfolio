@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Aparajith Aradhya</title>
-    <link href="https://aparajith-UX.github.io/portfolio/feed.xml" rel="self" />
-    <link href="https://aparajith-UX.github.io/portfolio" />
-    <updated>2025-08-13T12:01:11+05:30</updated>
+    <link href="https://aparajitharadhya.com/feed.xml" rel="self" />
+    <link href="https://aparajitharadhya.com" />
+    <updated>2025-08-16T09:01:26+05:30</updated>
     <author>
         <name>Aparajith Aradhya</name>
     </author>
-    <id>https://aparajith-UX.github.io/portfolio</id>
+    <id>https://aparajitharadhya.com</id>
 
     <entry>
         <title>Pixel Perfect: Crafting a Visual Design System for a Thriving Photography Community</title>
         <author>
             <name>Aparajith Aradhya</name>
         </author>
-        <link href="https://aparajith-UX.github.io/portfolio/pixel-perfect-crafting-a-visual-design-system-for-a-thriving-photography-community/"/>
-        <id>https://aparajith-UX.github.io/portfolio/pixel-perfect-crafting-a-visual-design-system-for-a-thriving-photography-community/</id>
+        <link href="https://aparajitharadhya.com/pixel-perfect-crafting-a-visual-design-system-for-a-thriving-photography-community/"/>
+        <id>https://aparajitharadhya.com/pixel-perfect-crafting-a-visual-design-system-for-a-thriving-photography-community/</id>
 
         <updated>2025-08-13T12:01:11+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aparajith-UX.github.io/portfolio/media/posts/5/KitKarma-Thumbnail.png" alt="" />
+                        <img src="https://aparajitharadhya.com/media/posts/5/KitKarma-Thumbnail.png" alt="" />
                     Content brewing, check back in a while 🙂
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://aparajith-UX.github.io/portfolio/media/posts/5/KitKarma-Thumbnail.png" alt="" />
+                    <img src="https://aparajitharadhya.com/media/posts/5/KitKarma-Thumbnail.png" alt="" />
                 <p id="block-ae777e29e5b547d69ebbe5195994d7be" class="notion-text color-gray notion-text__content notion-semantic-string">Content brewing, check back in a while 🙂</p>
             ]]>
         </content>
@@ -36,19 +36,19 @@
         <author>
             <name>Aparajith Aradhya</name>
         </author>
-        <link href="https://aparajith-UX.github.io/portfolio/end-to-end-visual-design-branding-and-ux-for-a-saas-corporate-travel-platform/"/>
-        <id>https://aparajith-UX.github.io/portfolio/end-to-end-visual-design-branding-and-ux-for-a-saas-corporate-travel-platform/</id>
+        <link href="https://aparajitharadhya.com/end-to-end-visual-design-branding-and-ux-for-a-saas-corporate-travel-platform/"/>
+        <id>https://aparajitharadhya.com/end-to-end-visual-design-branding-and-ux-for-a-saas-corporate-travel-platform/</id>
 
         <updated>2025-08-13T11:53:24+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aparajith-UX.github.io/portfolio/media/posts/4/Insteract-Thumbnail.png" alt="" />
+                        <img src="https://aparajitharadhya.com/media/posts/4/Insteract-Thumbnail.png" alt="" />
                      Insteract simplifies travel management by blending traveller needs and company policies.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://aparajith-UX.github.io/portfolio/media/posts/4/Insteract-Thumbnail.png" alt="" />
+                    <img src="https://aparajitharadhya.com/media/posts/4/Insteract-Thumbnail.png" alt="" />
                 <div id="block-887957ac9b3f436589d42a6df64e85ac" class="notion-column-list">
 <div id="block-ba7f6163b1ae442da9a8aa14512c8dc3" class="notion-column">
 <h1 id="block-bdafb750a72f4142a92be742365be96e" class="notion-heading notion-semantic-string">Insteract simplifies travel management by blending traveller needs and company policies. It offers a complete travel management platform for business and travellers.</h1>
@@ -234,19 +234,19 @@
         <author>
             <name>Aparajith Aradhya</name>
         </author>
-        <link href="https://aparajith-UX.github.io/portfolio/a-cooking-robot/"/>
-        <id>https://aparajith-UX.github.io/portfolio/a-cooking-robot/</id>
+        <link href="https://aparajitharadhya.com/a-cooking-robot/"/>
+        <id>https://aparajitharadhya.com/a-cooking-robot/</id>
 
         <updated>2025-08-13T11:43:54+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aparajith-UX.github.io/portfolio/media/posts/3/Nymble-Thumbnail.png" alt="" />
+                        <img src="https://aparajitharadhya.com/media/posts/3/Nymble-Thumbnail.png" alt="" />
                      Nymble had a unique idea to automate boring parts of cooking&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://aparajith-UX.github.io/portfolio/media/posts/3/Nymble-Thumbnail.png" alt="" />
+                    <img src="https://aparajitharadhya.com/media/posts/3/Nymble-Thumbnail.png" alt="" />
                 <div id="block-b9f70980e49a4504902f149abcc83bd2" class="notion-column-list">
 <div id="block-c3aa9354e559449395c62aed01a2be53" class="notion-column">
 <h1 id="block-ba4fe0ae6aed432490568f7162379b59" class="notion-heading notion-semantic-string">Nymble had a unique idea to automate boring parts of cooking so people could enjoy what they really loved- Eating!</h1>
@@ -422,23 +422,23 @@
         </content>
     </entry>
     <entry>
-        <title>Designing a mobile first, SaaS AI Platform to Turn Employee–Manager Feedback into Actionable Growth</title>
+        <title>Designing a mobile first, AI enabled SaaS Platform to Turn Employee–Manager Feedback into Actionable Growth</title>
         <author>
             <name>Aparajith Aradhya</name>
         </author>
-        <link href="https://aparajith-UX.github.io/portfolio/ai-powered-employee-feedback-analysis/"/>
-        <id>https://aparajith-UX.github.io/portfolio/ai-powered-employee-feedback-analysis/</id>
+        <link href="https://aparajitharadhya.com/ai-powered-employee-feedback-analysis/"/>
+        <id>https://aparajitharadhya.com/ai-powered-employee-feedback-analysis/</id>
 
-        <updated>2025-08-13T11:22:03+05:30</updated>
+        <updated>2025-08-16T09:01:26+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aparajith-UX.github.io/portfolio/media/posts/1/Emtropy-Thumbnail.png" alt="" />
+                        <img src="https://aparajitharadhya.com/media/posts/1/Emtropy-Thumbnail.png" alt="" />
                     People spend the majority of their day at work. It's important to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://aparajith-UX.github.io/portfolio/media/posts/1/Emtropy-Thumbnail.png" alt="" />
+                    <img src="https://aparajitharadhya.com/media/posts/1/Emtropy-Thumbnail.png" alt="" />
                 <h1 id="block-4de3539a3caa45a29ca6e4a1073dc451" class="notion-heading notion-semantic-string">People spend the majority of their day at work. It's important to build a culture of open feedback, appreciation and continuous learning for everybody to thrive.</h1>
 <p id="block-f20e1f70bfee4468bc70e43856a11f9d" class="notion-text notion-text__content notion-semantic-string">Role: User Research, UX/UI design, Visual design, Prototyping</p>
 <div id="block-fc72cf900551473d8a2a46413e3c9d87" class="notion-column-list">
@@ -474,7 +474,7 @@
 </div>
 <div id="block-2c7c5fe26b554c4aae6ab646528fc909" class="notion-column"><span id="b65c8cb0cf9444bd8431b85274d8d8f4" class="notion-heading__anchor"></span>
 <h1 id="block-b65c8cb0cf9444bd8431b85274d8d8f4" class="notion-heading notion-semantic-string">Armed with these insights, we set out to design a solution that integrated Feedback, Appreciation and Learning into one cohesive solution.</h1>
-<figure class="post__image"><img loading="lazy"  src="https://aparajith-UX.github.io/portfolio/media/posts/1/UI-Wall.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/UI-Wall-xs.png 300w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/UI-Wall-sm.png 480w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/UI-Wall-md.png 768w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/UI-Wall-lg.png 1024w"  alt="" width="1600" height="1200"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://aparajitharadhya.com/media/posts/1/UI-Wall.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://aparajitharadhya.com/media/posts/1/responsive/UI-Wall-xs.png 300w ,https://aparajitharadhya.com/media/posts/1/responsive/UI-Wall-sm.png 480w ,https://aparajitharadhya.com/media/posts/1/responsive/UI-Wall-md.png 768w ,https://aparajitharadhya.com/media/posts/1/responsive/UI-Wall-lg.png 1024w"  alt="" width="1600" height="1200"></figure>
 </div>
 <div id="block-43c2bdb21b02421bb86f7effc9237ba6" class="notion-column">
 <h3 id="block-f58984acbe464864bdbc1633212940c8" class="notion-heading notion-semantic-string">Feedback</h3>
@@ -486,14 +486,14 @@
 <p id="block-2b386b91f69e4bcbaff7b8251b2a6ad7" class="notion-text notion-text__content notion-semantic-string"><strong>1) There was initial hesitation to give and receive feedback.</strong></p>
 <p id="block-dc11b567a4f94e888a518d31096e694a" class="notion-text notion-text__content notion-semantic-string">We found that Managers were comfortable giving feedback to their team. But, the team members were wary of requesting feedback even though they knew it was important .</p>
 <p id="block-e80597b239494aa495f84fdd321fc40c" class="notion-text notion-text__content notion-semantic-string">We helped start the habit by nudging them to take action.</p>
-<figure class="post__image"><img loading="lazy"  src="https://aparajith-UX.github.io/portfolio/media/posts/1/Onboarding.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Onboarding-xs.png 300w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Onboarding-sm.png 480w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Onboarding-md.png 768w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Onboarding-lg.png 1024w"  alt="" width="1600" height="1200"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://aparajitharadhya.com/media/posts/1/Onboarding.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://aparajitharadhya.com/media/posts/1/responsive/Onboarding-xs.png 300w ,https://aparajitharadhya.com/media/posts/1/responsive/Onboarding-sm.png 480w ,https://aparajitharadhya.com/media/posts/1/responsive/Onboarding-md.png 768w ,https://aparajitharadhya.com/media/posts/1/responsive/Onboarding-lg.png 1024w"  alt="" width="1600" height="1200"></figure>
 <div id="block-8e6536ae248f4ede9c1a4e2fac20713b" class="notion-column-list">
 <div id="block-bebcac909e984d679bb1f268153b93a3" class="notion-column">
 <p id="block-1228eee2ef4e48458f02279eacf73afa" class="notion-text notion-text__content notion-semantic-string"><strong>2) Feedback was perceived as harsh or negative</strong></p>
 <p id="block-545922376a514a91aa9179aecf980e3b" class="notion-text notion-text__content notion-semantic-string">Giving and receiving feedback was tough. Well-intended feedback could sound rude and demotivate the receiver if not given the right way.</p>
 <p id="block-82752cc9a52245a58c31b5cae0bbf6c5" class="notion-text notion-text__content notion-semantic-string">We designed the process of giving feedback into 2 sections - Positive feedback first, followed by ways to improve. This made sure that the feedback was well rounded and motivating.</p>
 <p> </p>
-<div id="block-cda619884f38406098be422022badd53" class="notion-image align-start page-width"><figure class="post__image"><img loading="lazy"  src="https://aparajith-UX.github.io/portfolio/media/posts/1/Feedback-steps-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Feedback-steps-2-xs.png 300w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Feedback-steps-2-sm.png 480w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Feedback-steps-2-md.png 768w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Feedback-steps-2-lg.png 1024w"  sizes="(max-width: 546px) 100vw, 62vw" srcset="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7aa2529a-d980-48ed-8ce7-8ffd86ca23f2/Feedback_steps/w=640,quality=90,fit=scale-down 640w, https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7aa2529a-d980-48ed-8ce7-8ffd86ca23f2/Feedback_steps/w=750,quality=90,fit=scale-down 750w, https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7aa2529a-d980-48ed-8ce7-8ffd86ca23f2/Feedback_steps/w=828,quality=90,fit=scale-down 828w, https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7aa2529a-d980-48ed-8ce7-8ffd86ca23f2/Feedback_steps/w=1080,quality=90,fit=scale-down 1080w, https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7aa2529a-d980-48ed-8ce7-8ffd86ca23f2/Feedback_steps/w=1200,quality=90,fit=scale-down 1200w, https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7aa2529a-d980-48ed-8ce7-8ffd86ca23f2/Feedback_steps/w=1920,quality=90,fit=scale-down 1920w, https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7aa2529a-d980-48ed-8ce7-8ffd86ca23f2/Feedback_steps/w=2048,quality=90,fit=scale-down 2048w, https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7aa2529a-d980-48ed-8ce7-8ffd86ca23f2/Feedback_steps/w=3840,quality=90,fit=scale-down 3840w" alt="" width="1600" height="1200" data-nimg="1"></figure></div>
+<div id="block-cda619884f38406098be422022badd53" class="notion-image align-start page-width"><figure class="post__image"><img loading="lazy"  src="https://aparajitharadhya.com/media/posts/1/Feedback-steps-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://aparajitharadhya.com/media/posts/1/responsive/Feedback-steps-2-xs.png 300w ,https://aparajitharadhya.com/media/posts/1/responsive/Feedback-steps-2-sm.png 480w ,https://aparajitharadhya.com/media/posts/1/responsive/Feedback-steps-2-md.png 768w ,https://aparajitharadhya.com/media/posts/1/responsive/Feedback-steps-2-lg.png 1024w"  sizes="(max-width: 546px) 100vw, 62vw" srcset="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7aa2529a-d980-48ed-8ce7-8ffd86ca23f2/Feedback_steps/w=640,quality=90,fit=scale-down 640w, https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7aa2529a-d980-48ed-8ce7-8ffd86ca23f2/Feedback_steps/w=750,quality=90,fit=scale-down 750w, https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7aa2529a-d980-48ed-8ce7-8ffd86ca23f2/Feedback_steps/w=828,quality=90,fit=scale-down 828w, https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7aa2529a-d980-48ed-8ce7-8ffd86ca23f2/Feedback_steps/w=1080,quality=90,fit=scale-down 1080w, https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7aa2529a-d980-48ed-8ce7-8ffd86ca23f2/Feedback_steps/w=1200,quality=90,fit=scale-down 1200w, https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7aa2529a-d980-48ed-8ce7-8ffd86ca23f2/Feedback_steps/w=1920,quality=90,fit=scale-down 1920w, https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7aa2529a-d980-48ed-8ce7-8ffd86ca23f2/Feedback_steps/w=2048,quality=90,fit=scale-down 2048w, https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7aa2529a-d980-48ed-8ce7-8ffd86ca23f2/Feedback_steps/w=3840,quality=90,fit=scale-down 3840w" alt="" width="1600" height="1200" data-nimg="1"></figure></div>
 </div>
 <div id="block-1458dfb01e8d42cbbf023f804a0610b9" class="notion-column">
 <div id="block-e155d80dc929499d8c10ff63c95fb411" class="notion-text"> </div>
@@ -513,18 +513,18 @@
 <p id="block-1cf4ade43e2746de8a1b71e38804142b" class="notion-text notion-text__content notion-semantic-string">Earlier wins were celebrated, but offline. The value of the appreciation multiplied when everybody could participate in the celebration.</p>
 <p id="block-42204fb1f14a4602ad5fe1d047bb7858" class="notion-text notion-text__content notion-semantic-string">We made sharing wins easy. Just one tap to share appreciation on social media.</p>
 <p> </p>
-<div id="block-66bb8cc139034e0586a208675504ffe0" class="notion-image align-start page-width"><figure class="post__image"><img loading="lazy"  src="https://aparajith-UX.github.io/portfolio/media/posts/1/Kudos-Share-Kudos-4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Kudos-Share-Kudos-4-xs.png 300w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Kudos-Share-Kudos-4-sm.png 480w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Kudos-Share-Kudos-4-md.png 768w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Kudos-Share-Kudos-4-lg.png 1024w"  alt="" width="1600" height="1200"></figure></div>
+<div id="block-66bb8cc139034e0586a208675504ffe0" class="notion-image align-start page-width"><figure class="post__image"><img loading="lazy"  src="https://aparajitharadhya.com/media/posts/1/Kudos-Share-Kudos-4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://aparajitharadhya.com/media/posts/1/responsive/Kudos-Share-Kudos-4-xs.png 300w ,https://aparajitharadhya.com/media/posts/1/responsive/Kudos-Share-Kudos-4-sm.png 480w ,https://aparajitharadhya.com/media/posts/1/responsive/Kudos-Share-Kudos-4-md.png 768w ,https://aparajitharadhya.com/media/posts/1/responsive/Kudos-Share-Kudos-4-lg.png 1024w"  alt="" width="1600" height="1200"></figure></div>
 <div id="block-44bc229dd72b4887ae9a2f79a646fb33" class="notion-text"> </div>
 <p id="block-4e314421f89e443e99ef12da79c073fb" class="notion-text notion-text__content notion-semantic-string"><strong>2) Reciprocate appreciation</strong></p>
 <p id="block-11c3b16f3c6c49218b968401b9d65da8" class="notion-text notion-text__content notion-semantic-string">We found that appreciation created natural reciprocation. People who appreciate their teammates and managers got appreciated in return. As a result, teams bonded well and indirectly helped their productivity and performance.</p>
 <p id="block-685c7c138cfc49b8a0385c3dd117b0cf" class="notion-text notion-text__content notion-semantic-string">It was easy to like, share and respond to appreciation messages when they were shown in a public feed.</p>
 <p> </p>
-<div id="block-8e810a9408474b24aec8ed20bbc8e42a" class="notion-image align-start page-width"><figure class="post__image"><img loading="lazy"  src="https://aparajith-UX.github.io/portfolio/media/posts/1/Kudos-Public-Feed-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Kudos-Public-Feed-3-xs.png 300w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Kudos-Public-Feed-3-sm.png 480w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Kudos-Public-Feed-3-md.png 768w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Kudos-Public-Feed-3-lg.png 1024w"  alt="" width="1600" height="1200"></figure></div>
+<div id="block-8e810a9408474b24aec8ed20bbc8e42a" class="notion-image align-start page-width"><figure class="post__image"><img loading="lazy"  src="https://aparajitharadhya.com/media/posts/1/Kudos-Public-Feed-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://aparajitharadhya.com/media/posts/1/responsive/Kudos-Public-Feed-3-xs.png 300w ,https://aparajitharadhya.com/media/posts/1/responsive/Kudos-Public-Feed-3-sm.png 480w ,https://aparajitharadhya.com/media/posts/1/responsive/Kudos-Public-Feed-3-md.png 768w ,https://aparajitharadhya.com/media/posts/1/responsive/Kudos-Public-Feed-3-lg.png 1024w"  alt="" width="1600" height="1200"></figure></div>
 <p id="block-7a5ef8bee1844532aee6552d0b2e69d5" class="notion-text notion-text__content notion-semantic-string"><strong>3) Strengthen company culture</strong></p>
 <p id="block-d078697e9c9b4504b76db3f006b12213" class="notion-text notion-text__content notion-semantic-string">Most companies struggle to build a culture. Culture is built on shared company values. Even with the most amount of efforts from HR teams, not everybody really knows and behaves in accordance with the company culture.</p>
 <p id="block-8451f5bbf723495688113b2702257ec2" class="notion-text notion-text__content notion-semantic-string">We helped people remember the values and act accordingly by the act of repetition. Every appreciation was linked to company values.</p>
 <div id="block-13883c4b44e74604afe59ee45dd6a163" class="notion-image align-start page-width"> </div>
-<div><figure class="post__image"><img loading="lazy"  src="https://aparajith-UX.github.io/portfolio/media/posts/1/Kudos-Values.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Kudos-Values-xs.png 300w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Kudos-Values-sm.png 480w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Kudos-Values-md.png 768w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Kudos-Values-lg.png 1024w"  alt="" width="1600" height="1200"></figure></div>
+<div><figure class="post__image"><img loading="lazy"  src="https://aparajitharadhya.com/media/posts/1/Kudos-Values.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://aparajitharadhya.com/media/posts/1/responsive/Kudos-Values-xs.png 300w ,https://aparajitharadhya.com/media/posts/1/responsive/Kudos-Values-sm.png 480w ,https://aparajitharadhya.com/media/posts/1/responsive/Kudos-Values-md.png 768w ,https://aparajitharadhya.com/media/posts/1/responsive/Kudos-Values-lg.png 1024w"  alt="" width="1600" height="1200"></figure></div>
 <div id="block-755cec12cc724d72955fd5cf4cad426b" class="notion-text"> </div>
 </div>
 <div id="block-6137cadf8aac4e288870d67b94b60cff" class="notion-column">
@@ -544,12 +544,12 @@
 <p id="block-8d812d8d18eb451484e8255a82e5bab7" class="notion-text notion-text__content notion-semantic-string">Employees learn better when they learn what they wanted at their own pace. But, it's difficult for them to complete the program if they are left to learn on there own.</p>
 <p id="block-f2541ac8b2224a1b9b8264c4bda544be" class="notion-text notion-text__content notion-semantic-string">To solve this problem, we nudged employees to complete the programs by showing their progress in the dashboard.</p>
 <p> </p>
-<div id="block-98aaa3f4f6ef4b70b6c004890b397e12" class="notion-image align-start page-width"><figure class="post__image"><img loading="lazy"  src="https://aparajith-UX.github.io/portfolio/media/posts/1/Learning-Public-Feed.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Learning-Public-Feed-xs.png 300w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Learning-Public-Feed-sm.png 480w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Learning-Public-Feed-md.png 768w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Learning-Public-Feed-lg.png 1024w"  alt="" width="1600" height="1200"></figure></div>
+<div id="block-98aaa3f4f6ef4b70b6c004890b397e12" class="notion-image align-start page-width"><figure class="post__image"><img loading="lazy"  src="https://aparajitharadhya.com/media/posts/1/Learning-Public-Feed.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://aparajitharadhya.com/media/posts/1/responsive/Learning-Public-Feed-xs.png 300w ,https://aparajitharadhya.com/media/posts/1/responsive/Learning-Public-Feed-sm.png 480w ,https://aparajitharadhya.com/media/posts/1/responsive/Learning-Public-Feed-md.png 768w ,https://aparajitharadhya.com/media/posts/1/responsive/Learning-Public-Feed-lg.png 1024w"  alt="" width="1600" height="1200"></figure></div>
 <p id="block-55ee97d4cf854d538960cafb13839135" class="notion-text notion-text__content notion-semantic-string"><strong>2) Hands on learning</strong></p>
 <p id="block-5ac51456760a4be697c3494882628c11" class="notion-text notion-text__content notion-semantic-string">Employees had to apply learning in everyday work to make real progress. There was no way to see if there was progress even if they got to apply their learning.</p>
 <p id="block-22907faff8004b28be0ed90c0011171a" class="notion-text notion-text__content notion-semantic-string">We analysed the skills for each feedback message. This helped us show progress over time.</p>
 <div id="block-8a92b4dfdeb94f8fb1befe1cded25519" class="notion-image align-start page-width"> </div>
-<div><figure class="post__image"><img loading="lazy"  src="https://aparajith-UX.github.io/portfolio/media/posts/1/Learning-Skill-Analysis.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Learning-Skill-Analysis-xs.png 300w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Learning-Skill-Analysis-sm.png 480w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Learning-Skill-Analysis-md.png 768w ,https://aparajith-UX.github.io/portfolio/media/posts/1/responsive/Learning-Skill-Analysis-lg.png 1024w"  alt="" width="1600" height="1200"></figure></div>
+<div><figure class="post__image"><img loading="lazy"  src="https://aparajitharadhya.com/media/posts/1/Learning-Skill-Analysis.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://aparajitharadhya.com/media/posts/1/responsive/Learning-Skill-Analysis-xs.png 300w ,https://aparajitharadhya.com/media/posts/1/responsive/Learning-Skill-Analysis-sm.png 480w ,https://aparajitharadhya.com/media/posts/1/responsive/Learning-Skill-Analysis-md.png 768w ,https://aparajitharadhya.com/media/posts/1/responsive/Learning-Skill-Analysis-lg.png 1024w"  alt="" width="1600" height="1200"></figure></div>
 </div>
 <div id="block-bdf2fd28351b46348bfb3ef0024ae634" class="notion-column">
 <div id="block-8f1e6d62600c48348d0bf28af7d80bb8" class="notion-text"> </div>
