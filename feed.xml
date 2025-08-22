@@ -3,7 +3,7 @@
     <title>Aparajith Aradhya</title>
     <link href="https://aparajitharadhya.com/feed.xml" rel="self" />
     <link href="https://aparajitharadhya.com" />
-    <updated>2025-08-20T16:27:09+05:30</updated>
+    <updated>2025-08-22T16:47:27+05:30</updated>
     <author>
         <name>Aparajith Aradhya</name>
     </author>
@@ -33,7 +33,7 @@
         </content>
     </entry>
     <entry>
-        <title>End-to-End Visual Design, Branding &amp; UX for a SaaS Corporate Travel Platform</title>
+        <title>End-to-End UX, Visual Design &amp; Branding  for a SaaS Corporate Travel Platform</title>
         <author>
             <name>Aparajith Aradhya</name>
         </author>
@@ -60,6 +60,32 @@
 <div id="block-2a6dcdd929d942f88543e6a632fc6424" class="notion-column-list">
 <div id="block-4fc1d97dd2bc49a4b4756a11322c6697" class="notion-column">
 <div id="block-20b632ed847842e98a6407c5096772b6" class="notion-image page-width"></div>
+<div id="block-e1846f604a164ea1a86f519b89e12002" class="notion-column-list">
+<div id="block-adad916b93884f45b667b54dbefa5d19" class="notion-column">
+<div id="block-20b632ed847842e98a6407c5096772b6" class="notion-image page-width">
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Onboarding.png" data-size="2496x1872"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Onboarding-thumbnail.png" alt="" width="768" height="576"></a>
+<figcaption>Onboarding</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Flight-Search.png" data-size="2496x1872"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Flight-Search-thumbnail.png" alt="" width="768" height="576"></a>
+<figcaption>Flight Search</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Flight-Results.png" data-size="2496x1872"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Flight-Results-thumbnail.png" alt="" width="768" height="576"></a>
+<figcaption>Flight Results</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Self-Booking.png" data-size="2496x1872"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Self-Booking-thumbnail.png" alt="" width="768" height="576"></a>
+<figcaption>Self Booking</figcaption>
+</figure>
+</div></div>
+</div>
+</div>
+<div id="block-aedd8de74a1d4250aef79734b05d8a12" class="notion-column">
+<div id="block-3c95d2d7fde440a3aac986cb35470a7c" class="notion-text"></div>
+</div>
+</div>
+<div id="block-69e2798cb1c04b63afd98132b3d3cba3" class="notion-column-list">
+<div id="block-5b618bd8890b41dba178378f414dcc7e" class="notion-column"></div>
+</div>
 <h3>Problem</h3>
 <h1 id="block-16a18e6ea5cc4e07939e45efc2a0258e" class="notion-heading notion-semantic-string">Business travel is essential for geographically distributed teams, but managing it was hard work.</h1>
 <span id="24f7300d67214b58a0a2796b8774e50b" class="notion-heading__anchor"></span>
@@ -102,6 +128,7 @@
 <span id="c6c24009358242ef88429019cc499ec7" class="notion-heading__anchor"></span>
 <h3 id="block-c6c24009358242ef88429019cc499ec7" class="notion-heading notion-semantic-string">Travellers were very picky about their travel preferences</h3>
 <p id="block-884164dfaae849698f13665ed29f4ff6" class="notion-text notion-text__content notion-semantic-string">We got to know the travellers very well. Their likes, dislikes and travel preferences. We were not pesky, the short questions were easy to answer with a few taps. This helped us personalise the experience and always show relevant content.</p>
+<p> </p>
 </div>
 <div id="block-76c0e25726d44eaba2b4f214cb991da7" class="notion-column">
 <div id="block-9ac3e524c540457e9ad097406eb7af17" class="notion-text"></div>
@@ -217,42 +244,33 @@
 <p id="block-8f46d0b562c24baf85dd7520e7624fb5" class="notion-text notion-text__content notion-semantic-string">Visually explain all the animations and transitions needed to take the experience to the next level. Use Framer or Principal to create prototypes for the animations. They help get a faster buy-in from the team.</p>
 <h3>Screen samples</h3>
 <div id="block-20b632ed847842e98a6407c5096772b6" class="notion-image page-width">
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
-<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Onboarding.png" data-size="1600x1200"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Onboarding-thumbnail.png" alt="" width="768" height="576"></a>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Onboarding.png" data-size="2496x1872"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Onboarding-thumbnail.png" alt="" width="768" height="576"></a>
 <figcaption>Onboarding</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Flight-Search.png" data-size="1600x1200"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Flight-Search-thumbnail.png" alt="" width="768" height="576"></a>
+<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Flight-Search.png" data-size="2496x1872"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Flight-Search-thumbnail.png" alt="" width="768" height="576"></a>
 <figcaption>Flight Search</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Flight-Results.png" data-size="1600x1200"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Flight-Results-thumbnail.png" alt="" width="768" height="576"></a>
+<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Flight-Results.png" data-size="2496x1872"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Flight-Results-thumbnail.png" alt="" width="768" height="576"></a>
 <figcaption>Flight Results</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Self-Booking.png" data-size="1600x1200"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Self-Booking-thumbnail.png" alt="" width="768" height="576"></a>
+<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Self-Booking.png" data-size="2496x1872"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Self-Booking-thumbnail.png" alt="" width="768" height="576"></a>
 <figcaption>Self Booking</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Manage-approvals.png" data-size="1600x1200"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Manage-approvals-thumbnail.png" alt="" width="768" height="576"></a>
-<figcaption>Manage Approvals</figcaption>
+<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Manage-Approvals.png" data-size="2496x1872"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Manage-Approvals-thumbnail.png" alt="" width="768" height="576"></a>
+<figcaption>Manage approvals</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Flight-comparison.png" data-size="1600x1200"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Flight-comparison-thumbnail.png" alt="" width="768" height="576"></a>
-<figcaption>Flight Search</figcaption>
+<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Flight-results-web.png" data-size="2496x1872"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Flight-results-web-thumbnail.png" alt="" width="768" height="576"></a>
+<figcaption>Compare Flights</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Manage-Users.png" data-size="1600x1200"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Manage-Users-thumbnail.png" alt="" width="768" height="576"></a>
+<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Manage-Users.png" data-size="2496x1872"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Manage-Users-thumbnail.png" alt="" width="768" height="576"></a>
 <figcaption>Manage Users</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Preferences.png" data-size="1600x1200"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Preferences-thumbnail.png" alt="" width="768" height="576"></a>
+<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Preferences.png" data-size="2496x1872"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Preferences-thumbnail.png" alt="" width="768" height="576"></a>
 <figcaption>Preferences</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Partnerships.png" data-size="1600x1200"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Partnerships-thumbnail.png" alt="" width="768" height="576"></a>
-<figcaption>Partnerships Graphic</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Automation.png" data-size="1600x1200"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Automation-thumbnail.png" alt="" width="768" height="576"></a>
-<figcaption>Automation Graphic</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Rewards.png" data-size="1600x1200"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Rewards-thumbnail.png" alt="" width="768" height="576"></a>
-<figcaption>Rewards Graphic</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Transport.png" data-size="1600x1200"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Transport-thumbnail.png" alt="" width="768" height="576"></a>
-<figcaption>Transport Graphic</figcaption>
+<figure class="gallery__item"><a href="https://aparajitharadhya.com/media/posts/4/gallery/Graphics.png" data-size="2496x1872"><img loading="lazy" src="https://aparajitharadhya.com/media/posts/4/gallery/Graphics-thumbnail.png" alt="" width="768" height="576"></a>
+<figcaption>Graphics</figcaption>
 </figure>
 </div></div>
 </div>
